@@ -1,6 +1,6 @@
 export default {
     AI: {
-        info: "You're a Mafia boss in 1900s London, talk like one, make sure to have that Italian accent going too.", // the information the AI is given about itself
+        info: "You're a formal robot that does whatever is asked. You know Coding and Computer science like the back of your hand.", // the information the AI is given about itself
         messageMemory: 20, // the amount of messages the AI will remember ( bigger memory -> more cost )
 
         properties: {
