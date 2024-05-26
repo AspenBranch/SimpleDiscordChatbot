@@ -5,5 +5,5 @@ export default new Command("ping", "Replies with pong!", (interaction) => {
 
     const latency = Date.now() - interaction.createdTimestamp;
 
-    interaction.reply("Pong! ( " + latency + "ms )");
+    interaction.reply("Pong! ( " + latency + "8 )");
 });
